@@ -1,14 +1,15 @@
-TODO
 
-file chooser
+**Bootstrap FX**
 
-window to show password
-
-save user settings
-
-save password localy - decide on format
-use sql lite
-use jason and just write to a file
+https://github.com/kordamp/bootstrapfx
 
 
-GRPC add client - already done on mobile app.
+**Controls FX**
+
+https://controlsfx.github.io/features/plusminusslider/
+
+https://github.com/controlsfx/controlsfx/wiki/ControlsFX-Features
+
+**Forms FX**
+
+https://github.com/dlsc-software-consulting-gmbh/FormsFX
