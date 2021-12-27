@@ -1,0 +1,40 @@
+.button {
+    -fx-background-color: #e96108;
+    -fx-text-fill: #ffffff;
+    -fx-border-width: 2px;
+}
+
+.cancelButton {
+    -fx-background-color: #ea0d0d;
+    -fx-text-fill: #ffffff;
+}
+
+.root{
+    -fx-background-color: #2c2f33;
+    -fx-text-fill: #ffffff;
+}
+
+.label{
+    -fx-text-fill: #ffffff;
+}
+
+.table-view{
+    -fx-alignment: center;
+    -fx-background-color: #3a3a3e;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header{
+    -fx-background-color: #2c2f33;
+    -fx-border-width: 2px;
+}
+
+.table-view .table-cell {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #3a3a3e;
+    -fx-border-width: 2px;
+}
