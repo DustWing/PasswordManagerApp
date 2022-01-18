@@ -6,16 +6,13 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.TableView;
-import javafx.scene.layout.StackPane;
-import javafx.stage.FileChooser;
 
 public class PasswordsController {
 
     @FXML
     public TableView<PasswordModel> passwordTable;
 
-    @FXML
-    private StackPane mainId;
+
 
 
     @FXML
@@ -36,8 +33,6 @@ public class PasswordsController {
                 e.setPrefWidth(passwordTable.getPrefWidth() / passwordTable.getColumns().size())
         );
 
-        FileChooser fileChooser = new FileChooser();
-        fileChooser.showOpenDialog(null);
 
     }
 

@@ -8,6 +8,8 @@ import javafx.util.Duration;
 
 public class RotatingLoading extends ImageView {
 
+
+
     public RotatingLoading() {
         super();
         rotate();
